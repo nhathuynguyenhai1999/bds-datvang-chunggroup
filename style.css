@@ -1,0 +1,89 @@
+html {
+    font-size: 20px;
+    text-decoration: center;
+}
+h1 {
+    text-align: center;
+    color: whitesmoke;
+    border: 1px solid red;
+    margin: 0;
+    background-color: green;
+}
+h2 {
+    color: blue;
+    margin: 0;
+}
+h3 {
+    color:blueviolet;
+    margin: 0;
+}
+h4 {
+    color:blueviolet;
+    margin: 0;
+}
+h5 {
+    color:brown;
+    margin 0;
+}
+li {
+    color: green;
+    margin: 0;
+    padding: 0;
+}
+div {
+    color:green;
+    margin: 0;
+}
+p {
+    color : green;
+    margin: 0;
+}
+form-group {
+    color: gray;
+}
+image {
+    position: 100px;
+    text-align: center;
+}
+#top {
+    text-align: center;
+    font-weight: 200;
+    line-height: 30px;
+    margin-top: 50px;
+}
+sidebar img {
+    display: block;
+    margin: 0%;
+    border: 1px;
+    border-radius: 0%;
+}
+main img {
+    display: block;
+    margin: 0 auto;
+    text-align: center;    
+}
+a {
+    text-decoration: underline;
+}
+.lead {
+    font-size: 1.3rem;
+    margin-bottom: 2rem;
+}
+.list li {
+    padding: 0.5rem 0;
+    border-bottom: red dotted 1px;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.4;
+}
+script {
+    font-size: large;
+    color: brown;
+    padding: 1.2rem;
+}
+span {
+    font-size: smaller;
+    color: green;
+    padding: 1.5rem;
+}
