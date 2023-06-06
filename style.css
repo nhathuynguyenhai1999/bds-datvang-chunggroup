@@ -2,6 +2,15 @@ html {
     font-size: 20px;
     text-decoration: center;
 }
+menu {
+    display: flex;
+}
+menu li a {
+    text-decoration: none;
+    color: white;
+    padding: 8px 12px;
+    display: block;
+}
 h1 {
     text-align: center;
     color: whitesmoke;
@@ -64,6 +73,7 @@ main img {
 }
 a {
     text-decoration: underline;
+    padding: 8px 12px;
 }
 .lead {
     font-size: 1.3rem;
