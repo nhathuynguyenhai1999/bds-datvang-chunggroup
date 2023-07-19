@@ -2,6 +2,10 @@ html {
     font-size: 20px;
     text-decoration: center;
 }
+.nogo.text-primary {
+    position: sticky;
+    margin-top: 10px;
+}
 menu {
     display: flex;
 }
