@@ -110,3 +110,105 @@ span {
     color: green;
     padding: 1.5rem;
 }
+/* Chỉnh làm trang web */
+html  {
+    font-family: 'Times New Roman', Times, serif;
+}
+body {
+
+}
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: white;
+}
+#header{
+    height: 190px;
+    background-color: black;      
+}
+#nav, .subnav {
+    list-style-type: none;
+}
+#nav > li {
+    display: inline-block;
+}
+#nav li {
+    display: inline-block;
+    position: relative;
+}
+#nav {
+    display:inline-block;
+}
+#nav .subnav {
+    display: none;
+    position: absolute;
+    min-width: 160px;
+    background: wheat;
+    background-color: orangered;
+    box-shadow: 0 0 10px black;
+    left : 0;
+    top: 100%;
+}
+#nav .subnav a {
+    color: black;
+    padding: 0 16px;
+    line-height: 38px;
+}
+#nav > li > a {
+    color: white;
+    text-transform: uppercase;
+}
+#nav .subnav li:hover a {
+    color: black;
+    background-color: white;
+}
+#nav li a {
+    color: orange;
+    text-decoration: none;
+    line-height: 46px;
+    padding: 0 24px;
+    display: block;
+}
+#nav li:hover .subnav {
+    display: block;
+}
+#nav > li:hover > a,
+#nav .subnav li:hover a {
+    color: black;
+    background-color: white;
+}
+#nav li:hover a {
+    color: black;
+    background-color: white;
+}
+#slider {
+    background-color: grey;
+    min-height: 500px;
+}
+#main {
+
+}
+#content {
+
+}
+#footer {
+
+}
+#header .search-btn {
+    float:right;
+    padding: 0 21px;
+    cursor: pointer;
+}
+#header .search-btn:hover {
+    color: red;
+}
+#header .search-icon{
+    font-size: 22px;
+    color: white;
+    line-height: 46px;
+}
+img {
+    width: 100px;
+    height: 100px;
+}
