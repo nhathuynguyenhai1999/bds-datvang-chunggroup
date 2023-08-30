@@ -125,7 +125,8 @@ body {
 }
 #header{
     height: 190px;
-    background-color: black;      
+    background-color: black;
+    color: white;      
 }
 #nav, .subnav {
     list-style-type: none;
