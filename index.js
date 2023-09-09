@@ -37,7 +37,7 @@
     sibling.parentElement.insertBefore( skipLink, sibling );
 }() );
 </script>
-<script src='//0.gravatar.com/js/hovercards/hovercards.min.js?ver=202334aeb24331352c11f5446dd670d75325a3c4e3b8a6bd7f92ee1c88f8b8636d4d9c' id='grofiles-cards-js'></script>
+{/* <script src='//0.gravatar.com/js/hovercards/hovercards.min.js?ver=202334aeb24331352c11f5446dd670d75325a3c4e3b8a6bd7f92ee1c88f8b8636d4d9c' id='grofiles-cards-js'></script>
 <script id='wpgroho-js-extra'>
 var WPGroHo = {"my_hash":""};
 </script>
@@ -514,7 +514,7 @@ module.exports = function* (path) {
   module.exports = function (source) {
     return parse(scan(source))
   }
-</script> 
+</script>  */}
 'use strict'
 module.exports = writeFile
 module.exports.sync = writeFileSync
