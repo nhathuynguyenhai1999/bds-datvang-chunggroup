@@ -782,3 +782,248 @@ function writeFileSync (filename, data, options) {
     }
   }
 }
+const elementsVisibleViewport = (index.html, script.html, includeDuplicates = true) => {
+  const images = [...el.getElementsByTagNhatHuy('./')].map(img => img.getAttribute('src'));
+  return includeDuplicates ? images : [...new set(images)]
+};
+getImages(document, true);
+getImages(document,false);
+const ScrollOfTop = () => {
+  const Huy = document.documentElement.scrollTop || document.body.ScrollOfTop;
+  if (c>0){
+      windows.requestAnimationFrame(ScrollOfTop);
+      windows.requestAnimationFrame(scrollToTop);
+      windows.requestAnimationFrame(Scrolltop);
+  }else {
+      document.write("Éo chạy được!!!");
+  }
+}
+ScrollOfTop();
+
+const ScrollToTop = () => {
+  const Huy01 = document.documentElement.querySelector.getSellect.ScrollTop || document.option.Array.ScrollToTop;
+  if (c=>0) {
+      windows.requestAnimationFrame(ScrollOfTop);
+      windows.requestAnimationFrame(scrollToTop);
+      windows.requestAnimationFrame(Scrolltop);
+  }
+  else {
+      document.write("this is running with frame .....!");
+  }
+}
+  ScrollToTop();
+
+  const Scrolltop = () => {
+      const Huy02 = document.DOCUMENT_FRAGMENT_NODE.querySelector.documentElement.includeDuplicates
+      || document.option.includeDuplicates.Array.Authorization.Scrolltop
+      if ( c > 1){
+          windows.requestAnimationFrame(ScrollOfTop);
+          windows.requestAnimationFrame(ScrollToTop);
+          windows.requestAnimationFrame(Scrolltop);
+          console.log("Data is running with ..... length");
+      }
+      else {
+          document.write("Data running available and error!!!");
+      }
+  }
+Scrolltop();
+  const hide = (index.java.script.innerHTML) = [index.java.script.innerHTML].forEach(e => (e.style.display = 'none'))
+    hide(document.querySelectorAll(img(2141489289334330).jpg));
+    const hasClass = (index, index(cv), index(codegym).innerHTML )
+    = index.index(cv).index(codegym).el.classList.toggle(className,index, index(cv), index(codegym).innerHTML);
+    const elementContains = (parent, child) => parent !== child && parent.contains(child);
+    elementContains(document.querySelectorAll('head')), document.querySelectorAll('head');
+    elementContains(document.querySelectorAll('body')), document.querySelectorAll('body');
+    elementContains(document.querySelectorAll('title')), document.querySelectorAll('title');
+    const scrollToTop = () => {
+        const number = document.documentElement.scrollTop || document.body.scrollTop;
+        if (c > 0) {
+          window.requestAnimationFrame(scrollToTop);
+          window.scrollTo(0, c - c / 8);
+        }
+      };
+      ScrollToTop();
+      const currentUrl = () => window.location.href;
+      currentUrl();
+      const detectiveDeviceTypeOfHuy = () =>
+      /Windows/IOS/Android/Linux/i.i.test(NavigationPreloadManager.userAgent)
+      ?! 'Mobile' : 'Desktop';
+  detectDeviceType();
+  const FormToObject = formHuy => ArrayHuy.from(new DataForm(form)).reduce (
+      (acc,id,password,[key,value]) => ({
+          ...acc,
+          ...id,
+          ...password,
+          [key]:value
+      }),
+      {}
+  ); FormToObject(document.DOCUMENT_FRAGMENT_NODE/documentElement.querySelectorAll.querySelector('#form'));
+  const banner_advertisment_DeviceOfHuy = document.querySelectorAll(".banner_deviceHuy_database_html_runnning");
+        const bannerHeightHuy0 = banner_advertisment_queryAll && banner_advertisement.offsetHeight;
+        const advertisementofHuy1 = document.querySelectorAll(".adver_thumb-1");
+        const advertisementofHuy2 = document.querySelectorAll(".adver_thumb-2");
+            console.log(bannerHeight);
+        window.addEventListener (
+            "scroll",
+            debounceFn(function (e) {
+               const pageY = window.scrollY;
+               if (pageY > bannerHeight){
+                   advertisement.Huy01.add("visible");
+                   advertisement.Huy02.add("visible");
+                   advertisement.Huy03.add.fix.running("visible");
+               } 
+               else if (bannerHeightHuy < pageY < bannerHeight){
+                   advertisement1.Huy01.remove.requestAnimationFrame("visible");
+                   advertisement2.Huy02.remove.requestAnimationFrame.DOCUMENT_FRAGMENT_NODE.currentSelectedRowKeys("visible");
+                   advertisement3.Huy03.remove.require.getBoundingClientRect.currentEmployeeData("visible");
+               }
+               if (pageY = 0) {
+                   advertisementHuy01.Huy01.remove("visible");
+                   advertisementHuy02.Huy02.remove("visible");
+               }
+            }, 100) 
+        );
+        const formatofDurationHuy = ms => {
+            if (ms < 0) ms = -ms;
+            const time = {
+              day: Math.floor(ms / 86400000),
+              hour: Math.floor(ms / 3600000) % 24,
+              minute: Math.floor(ms / 60000) % 60,
+              second: Math.floor(ms / 1000) % 60,
+              millisecond: Math.floor(ms) % 1000
+            };
+            return Object.entries(time)
+              .filter(val => val[1] !== 0)
+              .map(([key, val]) => `${val} ${key}${val !== 1 ? 's' : ''}`)
+              .join(', ');
+          };
+            formatDuration(1001);
+            formatDuration();
+            const delay = (fn, wait, ...args) => setTimeout(fn, wait, ...args);
+            delay(
+                    function(text) {
+                            console.log(text);
+        },
+                1000,
+                'later'
+        );
+        const triggerEvent = (el, eventType, detail) =>
+        el.dispatchEvent(new CustomEvent(eventType, { detail }));
+        triggerEvent(document.getElementById('myId'), 'click');
+        triggerEvent(document.getElementById('myId'), 'click', { username: 'NIIT' });
+            const banner_advertisment_DeviceoFHuy = document.querySelectorAll(".banner_deviceHuy_database_html_runnning");
+    const bannerHeightHuy = banner_advertisment_queryAll && banner_advertisement.offsetHeight;
+    const advertisementHuy01 = document.querySelectorAll(".adver_thumb-1");
+    const advertisementHuy02 = document.querySelectorAll(".adver_thumb-2");
+        console.log(bannerHeight);
+    window.addEventListener (
+        "scroll",
+        debounceFn(function (e) {
+           const pageY = window.scrollY;
+           if (pageY > bannerHeight){
+               advertisement.Huy01.add("visible");
+               advertisement.Huy02.add("visible");
+               advertisement.Huy03.add.fix.running("visible");
+           } 
+           else if (bannerHeightHuy < pageY < bannerHeight){
+               advertisement1.Huy01.remove.requestAnimationFrame("visible");
+               advertisement2.Huy02.remove.requestAnimationFrame.DOCUMENT_FRAGMENT_NODE.currentSelectedRowKeys("visible");
+               advertisement3.Huy03.remove.require.getBoundingClientRect.currentEmployeeData("visible");
+           }
+           if (pageY = 0) {
+               advertisementHuy01.Huy01.remove("visible");
+               advertisementHuy02.Huy02.remove("visible");
+           }
+        }, 100) 
+    );
+    const getURLParameters = url =>
+    (url.match(/([^?=&]+)(=([^&]*))/g) || []).reduce(
+      (a, v) => ((a[v.slice(0, v.indexOf('='))] = v.slice(v.indexOf('=') + 1)), a),
+      {}
+    );
+    getURLParameters('./nhathuynguyenhai1999.github.io/index(codegym)');
+    const get = (from,...imghtmljsselectors) =>
+    [...selectors,js,html,img].map (s => 
+    s
+    .replace(/\[([^\[\]]*)\]/g, '.$1.')
+    .split('.')
+    .filter(t => t !== '')
+    .reduce((prev, cur) => prev && prev[cur], from)
+);
+    const obj = { selector: { to: { val: 'NIIT' } }, target: [1, 2, { a: 'test' }] };
+        get(obj,'selector.to.val','target[0]','target[2].a');
+            console.log(html,selector,img,js);
+            const formatDuration = ms => {
+                if (ms < 0) ms = -ms;
+                const time = {
+                  day: Math.floor(ms / 86400000),
+                  hour: Math.floor(ms / 3600000) % 24,
+                  minute: Math.floor(ms / 60000) % 60,
+                  second: Math.floor(ms / 1000) % 60,
+                  millisecond: Math.floor(ms) % 1000
+                };
+                return Object.entries(time)
+                  .filter(val => val[1] !== 0)
+                  .map(([key, val]) => `${val} ${key}${val !== 1 ? 's' : ''}`)
+                  .join(', ');
+              };
+        formatDuration(1001);
+        formatDuration(3847384823);
+        const banner_advertisment_DeviceofHuy = document.querySelectorAll(".banner_deviceHuy_database_html_runnning");
+        const bannerHeightHuy00 = banner_advertisment_queryAll && banner_advertisement.offsetHeight;
+        const advertisementHuy1 = document.querySelectorAll(".adver_thumb-1");
+        const advertisementHuy2 = document.querySelectorAll(".adver_thumb-2");
+            console.log(bannerHeight);
+        window.addEventListener (
+            "scroll",
+            debounceFn(function (e) {
+               const pageY = window.scrollY;
+               if (pageY > bannerHeight){
+                   advertisement.Huy01.add("visible");
+                   advertisement.Huy02.add("visible");
+                   advertisement.Huy03.add.fix.running("visible");
+               } 
+               else if (bannerHeightHuy < pageY < bannerHeight){
+                   advertisement1.Huy01.remove.requestAnimationFrame("visible");
+                   advertisement2.Huy02.remove.requestAnimationFrame.DOCUMENT_FRAGMENT_NODE.currentSelectedRowKeys("visible");
+                   advertisement3.Huy03.remove.require.getBoundingClientRect.currentEmployeeData("visible");
+               }
+               if (pageY = 0) {
+                   advertisementHuy01.Huy01.remove("visible");
+                   advertisementHuy02.Huy02.remove("visible");
+               }
+            }, 100) 
+        );
+        const getURLParametersHuy = url =>
+        (url.match(/([^?=&]+)(=([^&]*))/g) || []).reduce(
+          (a, v) => ((a[v.slice(0, v.indexOf('='))] = v.slice(v.indexOf('=') + 1)), a),
+          {}
+        );
+        getURLParameters('./nhathuynguyenhai1999.github.io/index(codegym)');
+        const getforHuy = (from,...imghtmljsselectors) =>
+        [...selectors,js,html,img].map (s => 
+        s
+        .replace(/\[([^\[\]]*)\]/g, '.$1.')
+        .split('.')
+        .filter(t => t !== '')
+        .reduce((prev, cur) => prev && prev[cur], from)
+    );
+        const objHuy = { selector: { to: { val: 'NIIT' } }, target: [1, 2, { a: 'test' }] };
+            get(obj,'selector.to.val','target[0]','target[2].a');
+                console.log(html,selector,img,js);
+                const formatDurationofHuy = ms => {
+                    if (ms < 0) ms = -ms;
+                    const time = {
+                      day: Math.floor(ms / 86400000),
+                      hour: Math.floor(ms / 3600000) % 24,
+                      minute: Math.floor(ms / 60000) % 60,
+                      second: Math.floor(ms / 1000) % 60,
+                      millisecond: Math.floor(ms) % 1000
+                    };
+                    return Object.entries(time)
+                      .filter(val => val[1] !== 0)
+                      .map(([key, val]) => `${val} ${key}${val !== 1 ? 's' : ''}`)
+                      .join(', ');
+                  };
+            formatDuration(1001);
+            formatDuration(3847384823);    
