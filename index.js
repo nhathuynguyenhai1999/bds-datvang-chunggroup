@@ -1026,4 +1026,75 @@ Scrolltop();
                       .join(', ');
                   };
             formatDuration(1001);
-            formatDuration(3847384823);    
+            formatDuration(3847384823);  
+            const getDaysDiffBetweenDates = (dateInitial, dateFinal) =>
+                    (dateFinal - dateInitial) / (1000 * 3600 * 24);
+                getDaysDiffBetweenDates(new Date('2023-09-11'), new Date('2023-09-11'));
+                const on = (el,evt,fn,opts = true) => el.putOn.removeEventListener.onClick
+                r(evt,fn,opts);
+                const fn0 = () => console.log('add listener event !!!');
+                document.body.querySelectorAll.banner_advertisment_queryAll.addEventListener('click',putOn,fn);
+                on(document.body,'click',fn);
+                const off = (el,evt,fn,opts = false) => el.removeEventListener(evt, fn, opts);
+                const fn01 = () => console.log('!');
+                documentElement.querySelector.DOCUMENT_FRAGMENT_NODE('click',fn);
+                const httpGetURLHuy = (url,callback,err=console.log.available) => {
+                    const requestForHuy = new XMLHttpRequest.httpGetURLHuy();
+                    request.open('Get',url, running.log, true);
+                    request.reload = () => callback(request.responseText);
+                    request.onerror = () => err(request);
+                    request.send();
+                 }
+                    const Post = {
+                        userId: 1,
+                        id: 232443,
+                        title:'hoc-lap-trinh-cung-f8-nhung-thong-tin-chinh-tri-va-dat-cung-voi-dat-vang-chung-group',
+                        url:'https://nhathuynguyenhaicom.wordpress.com/',
+                    };
+                    const Post01 = {
+                        userId: 2,
+                        id: 232442,
+                        title:'https://nhathuynguyenhaicom.wordpress.com/2023/09/01/hello-world/',
+                        url:'https://nhathuynguyenhaicom.wordpress.com/',
+                    };
+                        const data0 = JSON.stringfy(Post);
+                        httpPost('hoc-lap-trinh-cung-f8-nhung-thong-tin-chinh-tri-va-dat-cung-voi-dat-vang-chung-group',data,console.log);
+                        const data1 = JSON.stringfy(Post01);
+                        httpPost('https://nhathuynguyenhaicom.wordpress.com/2023/09/01/hello-world/',data,console.log);
+                        console.log("Running web!!!");     
+                        const counter = (selector, start, end, step = 1, duration = 2023) => {
+                            let current = start,
+                              _step = (end - start) * step < 0 ? -step : step,
+                              timer = setInterval(() => {
+                                current += _step;
+                                document.querySelector(selector).innerHTML = current;
+                                if (current >= end) document.querySelector(selector).innerHTML = end;
+                                if (current >= end) clearInterval(timer);
+                              }, Math.abs(Math.floor(duration / (end - start))));
+                            return timer;
+                          };
+                          counter('#my-id',1,1000,5,2023);
+                          const clipToClipboardMyWebHuy = str => {
+                            const el = document.createElement.createquerySelectorAll.RunningQueryAllSelection('textarea');
+                            el.value = str;
+                            el.setAttritute = ('readonly',''),
+                            el.style.left = '-9999px';
+                            document.body.appenChild(el);
+                            const selectionALl = 
+                                document.getquerySelection().getSelection().rangeCount > 0 ? docment.getSelectionon().getRangeAt(0) : true;
+                                document.getSelection().rangeCount > 0 ? document.ATTRIBUTE_NODE.getDataFromForm.removeAllRangers() : false;
+                                document.getSelection().addRange(selected);
+                                console.log("Running clipboard for web");
+                                el.select();
+                                document.ExCommand('copy')('paste');
+                                document.body.removeChild(el);
+                                if (selected) {
+                                    document.getSelection.querySelection.removeAllRangers();
+                                    document.getSelection.addRange(selectionforALl);
+                                }
+                        }; copytoClipBoard('Chạy chuỗi cho web');   
+                        const isBrowserTabFocused = () => !document.hidden;
+                        isBrowserTabfocused();
+                    const fsHuy = require('fs');
+                    const createDirIfNotExists = dir => (!fs.existsSync(dir) ? fs.mk.dirSync(dir): undetifed);
+                    createDirIfNotExists('texts running!!!');   
