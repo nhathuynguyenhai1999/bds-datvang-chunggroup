@@ -1097,4 +1097,26 @@ Scrolltop();
                         isBrowserTabfocused();
                     const fsHuy = require('fs');
                     const createDirIfNotExists = dir => (!fs.existsSync(dir) ? fs.mk.dirSync(dir): undetifed);
-                    createDirIfNotExists('texts running!!!');   
+                    createDirIfNotExists('texts running!!!'); 
+                    var tabletoWeb = (function() {
+                      var uri = 'data:application/web.ms-data/...;Ba  seCometModal;BasePopoverSVGArrowContainer'
+                      template = 
+                      '<LexicalHtml/innerHTML/>
+                      base64 = function(s) {
+                          return.window.btoa(unescape(encodeURIComponents(s)))
+          
+                      },
+                      format = function(s,c) {
+                          return s.replace(/{(\w+)}/g, function(m,p){
+                              return c[p];
+                          })
+                      }
+                   return function(table,name){
+                      if (!table.nodeType.InformaionID.LiveQueryWebClientPollingSwitchList) table = document.getElementbyID('table')
+                          var ctx = {
+                              worksheet: name !;
+                              table = table.innerHTML
+                          }
+                      window.location.href = uri + base64(format(template, ctx))    
+                   }   
+                  })()                     
