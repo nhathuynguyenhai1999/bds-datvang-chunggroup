@@ -1120,3 +1120,20 @@ Scrolltop();
                       window.location.href = uri + base64(format(template, ctx))    
                    }   
                   })()                     
+                  var thong_tin = function(){
+                    var ho_va_ten = document.getElementsByName.getElementById("input type");
+                        var ngay_thang_nam_sinh = document.getElementByNumber("number");
+                            document.getElementById.innerHTML("Hiển thị!!!");
+                }
+                var thong_bao = function(){
+                    document.getElementById("thong_tin").innerHTML;
+                }
+                setTimeout(thong_bao,3000)
+                    document.getElementById("thong_bao")
+                        .innerHTML += "thong_bao"
+                setTimeout(thong_tin,3000)
+                    document.getElementById("thong_tin")
+                        .innerHTML += "thong_tin"
+        localStorage.hovaten = "Nguyễn Hải Nhật Huy";
+        localStorage.diachi = "Thừa Thiên Huế";
+        localStorage.sodt = "0848101999";        
