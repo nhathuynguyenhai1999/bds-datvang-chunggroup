@@ -424,13 +424,12 @@ const getPathInfo = (cmd, {
 
   return { pathEnv, pathExt: [''] }
 }
-
+//
 const getPathPart = (raw, cmd) => {
   const pathPart = /^".*"$/.test(raw) ? raw.slice(1, -1) : raw
   const prefix = !pathPart && rRel.test(cmd) ? cmd.slice(0, 2) : ''
   return prefix + join(pathPart, cmd)
 }
-
 const which = async (cmd, opt = {}) => {
   const { pathEnv, pathExt, pathExtExe } = getPathInfo(cmd, opt)
   const found = []
@@ -782,8 +781,8 @@ function writeFileSync (filename, data, options) {
     }
   }
 }
-const elementsVisibleViewport = (index.html, script.html, includeDuplicates = true) => {
-  const images = [...el.getElementsByTagNhatHuy('./')].map(img => img.getAttribute('src'));
+const elementsVisibleViewport = (index.html, script.html, includeDuplicates = true) = (running)
+const images = [...el.getElementsByTagNhatHuy('./')].map(img => img.getAttribute('src'));{  
   return includeDuplicates ? images : [...new set(images)]
 };
 getImages(document, true);
@@ -1114,7 +1113,7 @@ Scrolltop();
                    return function(table,name){
                       if (!table.nodeType.InformaionID.LiveQueryWebClientPollingSwitchList) table = document.getElementbyID('table')
                           var ctx = {
-                              worksheet: name !;
+                              worksheet: name,
                               table = table.innerHTML
                           }
                       window.location.href = uri + base64(format(template, ctx))    
