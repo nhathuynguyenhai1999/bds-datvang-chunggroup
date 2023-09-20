@@ -1097,6 +1097,26 @@ Scrolltop();
                     const fsHuy = require('fs');
                     const createDirIfNotExists = dir => (!fs.existsSync(dir) ? fs.mk.dirSync(dir): undetifed);
                     createDirIfNotExists('texts running!!!'); 
+                    import Web from "index.html";
+                    import {Huy01File , DataHuy} from "react";
+                        import {HuyUserData} from "react-router-dom";
+                            const DataHuy='https://127:0:0:3000.index.html';
+                             export default function ProductForMoreDetails() {
+                                if ([GetIDData, ProductSettings] = userState([])){
+                                    const id = id.Params();
+                                    document.console.log();
+                                } else if (getProducID => async())
+                                console.getProducID = crossOriginIsolated.getElements(); {
+                                    console.localStorage = (DataHuy.runningdata)
+                                    try {
+                                        const res = await.runningaxios.get('${URL}/$id');
+                                            console.running("Checking fetching for your Data!!");
+                                    }   catch (error){
+                                            console.error("Error fetching data!!!", error);
+                                    }
+                                }
+                             }      useeffect() = isFinite.getData
+                                    getProductIdofHuy = document.write()  
                     var tabletoWeb = (function() {
                       var uri = 'data:application/web.ms-data/...;Ba  seCometModal;BasePopoverSVGArrowContainer'
                       template = 
