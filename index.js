@@ -3466,3 +3466,18 @@ describe('config outputAST:', ()=>{
     assert(outDir.includes('ast') === false)
   });
 });
+import {idTodotoolsofHuy} from "src/type/idTodotoolsofHuy.types";
+import {BaseStoreManager} from "./BaseStoreManager"
+  interface TodoStoreofHuy {
+    idTodotoolsofHuy: TodoStoreofHuy[];
+  }
+  const initialState: TodoStoreofHuy = {
+    todos: [],
+  }
+  class TodoStoreManager extends BaseStoreManager<TodoStore>{
+    addTodoHuy(newFileTodo: idTodotoolsofHuy){
+      const currentTodoList = this.get("todos");
+    }
+      const newTodoList = [...currentTodoList, newTodo];
+    this.set({todos: new})  
+  }
